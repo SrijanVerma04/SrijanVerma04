@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srijan Verma</h1>
 <h3 align="center">A passionate Developer and Tech enthusiast😎</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanverma04&label=Profile%20views&color=0e75b6&style=flat" alt="srijanverma04" /> </p>
 
@@ -20,5 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijanverma04&show_icons=true&locale=en&layout=compact" alt="srijanverma04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanverma04&show_icons=true&locale=en" alt="srijanverma04" /></p>
-
 
