@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srijan Verma</h1>
+<h1 align="center">Hi 👋, I'm Srijan</h1>
 <h3 align="center">A passionate Developer and Tech enthusiast😎</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif”>
 
